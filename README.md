@@ -4,7 +4,7 @@
 
 ### Describe the test scenarios and automate them
 
-In this assigment you need to implement a testing solution of your taste based on a preexisting micro application. 
+In this assignment you need to implement a testing solution of your taste based on a preexisting micro application.
 Instructions on how to run the micro application can be found right below.
 
 ### `My Charts` Micro application
